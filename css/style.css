@@ -44,7 +44,6 @@ body
     place-items: center;
     font-size: 1.2em;
     font-weight: 900;
-    border-radius: 100%;
     box-shadow: 0 0 2px 0 rgb(0, 0, 0),
                 0 0 3px 0 rgb(0, 0, 0);
 }
@@ -72,6 +71,5 @@ body
     background: rgb(0, 132, 255);
     color: white;
     font-size: 20px;
-    border-radius: 50%;
 }
 
